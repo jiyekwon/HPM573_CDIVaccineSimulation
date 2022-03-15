@@ -1,2 +1,2 @@
 # HPM573_CDIVaccineSimulation
-Final project proposal
+### HPM 573 Adv Top-Modeling HC Decisions Final Project Proposal
